@@ -1,7 +1,6 @@
 # Java ATM Machine - School Assignment Practise Project
 
 ```
-@author:   Donald Chinhuru
 @project:  ATM Machine
 @aim:  	  Using Custom Exceptions
 
